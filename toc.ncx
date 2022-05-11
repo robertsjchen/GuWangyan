@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta name="dtb:uid" content="a172f209-e04f-447c-a1bf-5c92bb22ed5b"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.41.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>《姑妄言》</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>目錄</text>
+      </navLabel>
+      <content src="text/content.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>《姑妄言》簡介</text>
+      </navLabel>
+      <content src="text/introduce.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3" class="chapter">
+      <navLabel>
+        <text>曹去晶自序</text>
+      </navLabel>
+      <content src="text/preface_01.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4" class="chapter">
+      <navLabel>
+        <text>姑妄言》首卷評</text>
+      </navLabel>
+      <content src="text/chapter_000.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5" class="chapter">
+      <navLabel>
+        <text>第一回　引神寓意　借夢開端</text>
+      </navLabel>
+      <content src="text/chapter_001.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6" class="chapter">
+      <navLabel>
+        <text>第二回　錢貴姐遭庸醫失明　竹思寬逢老鴇得偶</text>
+      </navLabel>
+      <content src="text/chapter_002.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7" class="chapter">
+      <navLabel>
+        <text>第三回　瞽女矢心擇婿　虔婆巧說迎郎</text>
+      </navLabel>
+      <content src="text/chapter_003.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8" class="chapter">
+      <navLabel>
+        <text>第四回　梅子多情攜愛友乍入煙花　鍾生無意訪名娃初諧魚水</text>
+      </navLabel>
+      <content src="text/chapter_004.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9" class="chapter">
+      <navLabel>
+        <text>第五回　諂脅小人承衣缽為衣食計　膏梁公子仗富勢覓富貴交</text>
+      </navLabel>
+      <content src="text/chapter_005.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10" class="chapter">
+      <navLabel>
+        <text>第六回　贏氏貪婬為淫累始改淫心　賊禿性惡作惡深終罹惡報</text>
+      </navLabel>
+      <content src="text/chapter_006.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11" class="chapter">
+      <navLabel>
+        <text>第七回　兇淫獄卒斃官刑　奸險龍陽遭暗害</text>
+      </navLabel>
+      <content src="text/chapter_007.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12" class="chapter">
+      <navLabel>
+        <text>第八回　賈文物借富丈人力竟得甲科　鄔幫閒迎宦公子竟走邀富貴</text>
+      </navLabel>
+      <content src="text/chapter_008.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13" class="chapter">
+      <navLabel>
+        <text>第九回　鄔合苦聯勢利友　宦萼契結酒肉盟</text>
+      </navLabel>
+      <content src="text/chapter_009.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14" class="chapter">
+      <navLabel>
+        <text>第十回　狂且乘狂興憶高官　美妓具美心譏俗客</text>
+      </navLabel>
+      <content src="text/chapter_010.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15" class="chapter">
+      <navLabel>
+        <text>第十一回　宦萼逞淫計降悍妻　侯氏消妒心贈美婢</text>
+      </navLabel>
+      <content src="text/chapter_011.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16" class="chapter">
+      <navLabel>
+        <text>第十二回　鍾情百種鍾情　宦萼一番宦惡</text>
+      </navLabel>
+      <content src="text/chapter_012.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17" class="chapter">
+      <navLabel>
+        <text>第十三回　鐵氏水陸二路齊行　童自大粗醜兩鬢並納</text>
+      </navLabel>
+      <content src="text/chapter_013.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18" class="chapter">
+      <navLabel>
+        <text>第十四回　多情郎金馬玉堂　矢貞妓洞房花燭</text>
+      </navLabel>
+      <content src="text/chapter_014.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19" class="chapter">
+      <navLabel>
+        <text>第十五回　惡少改非　仙方療妒</text>
+      </navLabel>
+      <content src="text/chapter_015.html"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20" class="chapter">
+      <navLabel>
+        <text>第十六回　鍾麗生致仕歸　古城隍圓宿夢</text>
+      </navLabel>
+      <content src="text/chapter_016.html"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21" class="chapter">
+      <navLabel>
+        <text>第十七回　童自大捨貴糧救苦賑流民　少林僧傳異術為歡娛胖婦</text>
+      </navLabel>
+      <content src="text/chapter_017.html"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22" class="chapter">
+      <navLabel>
+        <text>第十八回　崔命兒害人反害己　童自大得壽又得兒</text>
+      </navLabel>
+      <content src="text/chapter_018.html"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23" class="chapter">
+      <navLabel>
+        <text>第十九回　宦公子積德救嬌娃　向惟仁報恩酬愛女</text>
+      </navLabel>
+      <content src="text/chapter_019.html"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24" class="chapter">
+      <navLabel>
+        <text>第二十回　受恩百姓男婦感洪仁　積德賢朗父母膺上壽</text>
+      </navLabel>
+      <content src="text/chapter_020.html"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25" class="chapter">
+      <navLabel>
+        <text>第二十一回　史司馬為國憂民　賈進士捐貲殺賊</text>
+      </navLabel>
+      <content src="text/chapter_021.html"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26" class="chapter">
+      <navLabel>
+        <text>第二十二回　李闖賊恃勇敗三軍　史兵部加恩酬眾將</text>
+      </navLabel>
+      <content src="text/chapter_022.html"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27" class="chapter">
+      <navLabel>
+        <text>第二十三回　梅孝廉決意辭名　鍾員外無心逢侄</text>
+      </navLabel>
+      <content src="text/chapter_023.html"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28" class="chapter">
+      <navLabel>
+        <text>第二十四回　小狗子敗子竟回頭　鍾麗生神龍不見尾</text>
+      </navLabel>
+      <content src="text/chapter_024.html"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29" class="chapter">
+      <navLabel>
+        <text>附錄一　《姑妄言》出版說明</text>
+      </navLabel>
+      <content src="text/appendix_01.html"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30" class="chapter">
+      <navLabel>
+        <text>附錄二　《姑妄言》小說抄本之發現</text>
+      </navLabel>
+      <content src="text/appendix_02.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

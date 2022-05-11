@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>zh-TW</dc:language>
+    <dc:title>《姑妄言》</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">[清]曹去晶</dc:creator>
+    <dc:subject>古典艷情小說</dc:subject>
+    <dc:identifier opf:scheme="MOBI-ASIN">B00DUQLY7E</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a172f209-e04f-447c-a1bf-5c92bb22ed5b</dc:identifier>
+    <dc:date>2022-05-06T22:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2022-05-07T02:34:11.830212+00:00"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id0000" href="text/content.html" media-type="application/xhtml+xml"/>
+    <item id="id0001" href="text/introduce.html" media-type="application/xhtml+xml"/>
+    <item id="id0002" href="text/preface_01.html" media-type="application/xhtml+xml"/>
+    <item id="id000" href="text/chapter_000.html" media-type="application/xhtml+xml"/>
+    <item id="id001" href="text/chapter_001.html" media-type="application/xhtml+xml"/>
+    <item id="id002" href="text/chapter_002.html" media-type="application/xhtml+xml"/>
+    <item id="id003" href="text/chapter_003.html" media-type="application/xhtml+xml"/>
+    <item id="id004" href="text/chapter_004.html" media-type="application/xhtml+xml"/>
+    <item id="id005" href="text/chapter_005.html" media-type="application/xhtml+xml"/>
+    <item id="id006" href="text/chapter_006.html" media-type="application/xhtml+xml"/>
+    <item id="id007" href="text/chapter_007.html" media-type="application/xhtml+xml"/>
+    <item id="id008" href="text/chapter_008.html" media-type="application/xhtml+xml"/>
+    <item id="id009" href="text/chapter_009.html" media-type="application/xhtml+xml"/>
+    <item id="id010" href="text/chapter_010.html" media-type="application/xhtml+xml"/>
+    <item id="id011" href="text/chapter_011.html" media-type="application/xhtml+xml"/>
+    <item id="id012" href="text/chapter_012.html" media-type="application/xhtml+xml"/>
+    <item id="id013" href="text/chapter_013.html" media-type="application/xhtml+xml"/>
+    <item id="id014" href="text/chapter_014.html" media-type="application/xhtml+xml"/>
+    <item id="id015" href="text/chapter_015.html" media-type="application/xhtml+xml"/>
+    <item id="id016" href="text/chapter_016.html" media-type="application/xhtml+xml"/>
+    <item id="id017" href="text/chapter_017.html" media-type="application/xhtml+xml"/>
+    <item id="id018" href="text/chapter_018.html" media-type="application/xhtml+xml"/>
+    <item id="id019" href="text/chapter_019.html" media-type="application/xhtml+xml"/>
+    <item id="id020" href="text/chapter_020.html" media-type="application/xhtml+xml"/>
+    <item id="id021" href="text/chapter_021.html" media-type="application/xhtml+xml"/>
+    <item id="id022" href="text/chapter_022.html" media-type="application/xhtml+xml"/>
+    <item id="id023" href="text/chapter_023.html" media-type="application/xhtml+xml"/>
+    <item id="id024" href="text/chapter_024.html" media-type="application/xhtml+xml"/>
+    <item id="id0010" href="text/appendix_01.html" media-type="application/xhtml+xml"/>
+    <item id="id0011" href="text/appendix_02.html" media-type="application/xhtml+xml"/>
+  </manifest>
+
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id0000"/>
+    <itemref idref="id0001"/>
+    <itemref idref="id0002"/>
+    <itemref idref="id000"/>
+    <itemref idref="id001"/>
+    <itemref idref="id002"/>
+    <itemref idref="id003"/>
+    <itemref idref="id004"/>
+    <itemref idref="id005"/>
+    <itemref idref="id006"/>
+    <itemref idref="id007"/>
+    <itemref idref="id008"/>
+    <itemref idref="id009"/>
+    <itemref idref="id010"/>
+    <itemref idref="id011"/>
+    <itemref idref="id012"/>
+    <itemref idref="id013"/>
+    <itemref idref="id014"/>
+    <itemref idref="id015"/>
+    <itemref idref="id016"/>
+    <itemref idref="id017"/>
+    <itemref idref="id018"/>
+    <itemref idref="id019"/>
+    <itemref idref="id020"/>
+    <itemref idref="id021"/>
+    <itemref idref="id022"/>
+    <itemref idref="id023"/>
+    <itemref idref="id024"/>
+    <itemref idref="id0010"/>
+    <itemref idref="id0011"/>
+  </spine>
+  <guide>
+    <reference type="toc" href="text/content.html" title="目錄頁"/>
+    <reference type="cover" href="titlepage.xhtml" title="封面"/>
+  </guide>
+</package>
