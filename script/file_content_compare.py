@@ -10,10 +10,11 @@ log_string_array = []
     # strContent = strContent.replace('環', '鬟')
     # strContent = strContent.replace('嚐', '嘗')
     # strContent = strContent.replace('盡', '儘')
-str_tongjia_l = '真值鎮填慎顛青清鐘裏為既眾讚清泄著諡跡敘教皂羡飲蹤概卻郎抬闊豔樑告丟唧嫻群鉤腳説託躲朵閑蔥姦兇鄉歎啟簷聼汙污階撐冤駡嫋屏氊舐昂研耽插遊喂丰筍妝夀墜韭迥'
+    
+str_tongjia_l = '真值鎮填慎顛青清鐘裏為既眾讚清泄著諡跡敘教皂羡飲蹤概卻郎抬闊豔樑告丟唧嫻群鉤腳説託躲朵閑蔥姦兇鄉歎啟簷聼汙污階撐冤駡嫋屏氊舐昂研耽插遊喂丰筍妝夀墜韭迥冊輒垛拋妍髪荊煙笄喻鯗騭'
 
 # in reference Tex:
-str_tongjia_r = '眞値鎭塡愼顚靑淸鍾裡爲旣衆贊淸洩着謚蹟敍敎皀羨飮踪槪却郞擡濶艷梁吿丢喞嫺羣鈎脚說托躱朶閒葱奸凶鄕嘆啓檐聽汚汚堦撑寃罵嬝屛氈䑛昻硏躭揷游餵丯笋粧壽堕韮逈'
+str_tongjia_r = '眞値鎭塡愼顚靑淸鍾裡爲旣衆贊淸洩着謚蹟敍敎皀羨飮踪槪却郞擡濶艷梁吿丢喞嫺羣鈎脚說托躱朶閒葱奸凶鄕嘆啓檐聽汚汚堦撑寃罵嬝屛氈䑛昻硏躭揷游餵丯笋粧壽堕韮逈册輙垜抛姸髮荆烟筓喩鮝隲'
 
 def preProcessMatchString(strContent):
     global str_tongjia_l, str_tongjia_r
@@ -310,7 +311,7 @@ if __name__ == '__main__':
         print (('ref_file: %s; compare file: %s') % (ref_file, compare_file))
         # processCompare(ref_file, compare_file)
 
-    processCompare('part_02_ref.tex', 'chapter_002.html')
+    processCompare('part_01_ref.tex', 'chapter_001.html')
 
 
 
