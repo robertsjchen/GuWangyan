@@ -67,7 +67,7 @@
     </navPoint>
     <navPoint id="num_10" playOrder="10" class="chapter">
       <navLabel>
-        <text>第六回　贏氏貪婬為淫累始改淫心　賊禿性惡作惡深終罹惡報</text>
+        <text>第六回　嬴氏貪婬為淫累始改淫心　賊禿性惡作惡深終罹惡報</text>
       </navLabel>
       <content src="text/chapter_006.html"/>
     </navPoint>
