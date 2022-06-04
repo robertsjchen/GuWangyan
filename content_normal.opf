@@ -19,7 +19,8 @@
     <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
     <item id="id0000" href="text/content.html" media-type="application/xhtml+xml"/>
     <item id="id0001" href="text/introduce.html" media-type="application/xhtml+xml"/>
-    <item id="id0002" href="text/preface_01.html" media-type="application/xhtml+xml"/>
+    <item id="id0002" href="text/preface_00.html" media-type="application/xhtml+xml"/>
+    <item id="id0003" href="text/preface_01.html" media-type="application/xhtml+xml"/>
     <item id="id000" href="text/chapter_000.html" media-type="application/xhtml+xml"/>
     <item id="id001" href="text/chapter_001.html" media-type="application/xhtml+xml"/>
     <item id="id002" href="text/chapter_002.html" media-type="application/xhtml+xml"/>
@@ -54,6 +55,7 @@
     <itemref idref="id0000"/>
     <itemref idref="id0001"/>
     <itemref idref="id0002"/>
+    <itemref idref="id0003"/>
     <itemref idref="id000"/>
     <itemref idref="id001"/>
     <itemref idref="id002"/>
