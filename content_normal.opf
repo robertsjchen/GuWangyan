@@ -48,6 +48,7 @@
     <item id="id024" href="text/chapter_024.html" media-type="application/xhtml+xml"/>
     <item id="id0010" href="text/appendix_01.html" media-type="application/xhtml+xml"/>
     <item id="id0011" href="text/appendix_02.html" media-type="application/xhtml+xml"/>
+    <item id="id0012" href="text/appendix_03.html" media-type="application/xhtml+xml"/>
   </manifest>
 
   <spine toc="ncx">
@@ -83,6 +84,7 @@
     <itemref idref="id024"/>
     <itemref idref="id0010"/>
     <itemref idref="id0011"/>
+    <itemref idref="id0012"/>    
   </spine>
   <guide>
     <reference type="toc" href="text/content.html" title="目錄頁"/>

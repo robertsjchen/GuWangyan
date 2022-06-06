@@ -197,5 +197,11 @@
       </navLabel>
       <content src="text/appendix_02.html"/>
     </navPoint>
+    <navPoint id="num_32" playOrder="32" class="chapter">
+      <navLabel>
+        <text>附錄三　《姑妄言》整理後記</text>
+      </navLabel>
+      <content src="text/appendix_03.html"/>
+    </navPoint>
   </navMap>
 </ncx>

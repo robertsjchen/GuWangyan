@@ -183,14 +183,14 @@ p {
 
 .bu_que {
     color: #20B2AA;
-    font-family: "kt";
-    font-weight: bold;
+    /*font-family: "kt";*/
+    /*font-weight: bold;*/
 }
 
 .pang_zhu {
     font-family: "kt";
     font-size: 0.9em;
-    /*color: #228B22;*/
+    color: #228B22;
 }
 
 .x-small_centered {
@@ -202,6 +202,40 @@ p {
     text-indent: 0;
     margin-right: 1em;
 }
+
+.special_adjust {
+    margin-right: -2.5em;
+}
+
+.fnote_mark {
+    /*font-family:"kt";*/
+    font-size: 0.75em;
+    vertical-align: super    
+}
+
+.fnote_title {
+    display: block;
+    font-weight: 700;
+    text-align: left;
+    text-indent: 0em;
+    line-height: 150%;
+    margin: 0;
+    margin-right: 1em;
+    margin-left: 0.5em;
+ }
+ 
+.fnote_content {
+    display: block;
+    font-family: "kt";
+    font-size: 0.90em;
+    line-height: 150%;
+    text-align: left;
+    text-indent: -2em;
+    margin: 0;
+    /*margin-right: 0.25em;*/
+    margin-top: 2em;    
+}
+
 
 .content_kt {
     font-family: "kt";

@@ -6,6 +6,21 @@
     margin: 0 5pt
 }
 
+h1 {
+    font-size: 1.25em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.15em;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.10em;
+    text-align: center;
+}
+
 p {
     display: block;
     line-height: 150%;
@@ -95,6 +110,34 @@ p {
     margin: 1em 0
 }
 
+.shi {
+    display: block;
+    font-family: "kt";
+    line-height: 150%;
+    text-indent: 0;
+    margin: 0;
+    margin-left: 4em;
+    margin-right: 1em;
+    margin-bottom: 0.2em;
+}
+
+.gongwen {
+    display: block;
+    /*font-family: "kt";*/
+    line-height: 150%;
+    text-indent: 0;
+    margin: 0;
+    margin-left: 4em;
+    margin-right: 1em;
+    margin-bottom: 0.5em;
+}
+
+.right {
+    display: block;
+    text-align: right;
+    margin-right: 1em;
+}
+
 .quote {
     display: block;
     font-size: 0.75em;
@@ -104,6 +147,28 @@ p {
     padding-top: 0.5em
 }
 
+.ling_ping {
+    display: block;
+    font-family: "kt";
+    /*color: #1E90FF;*/
+    line-height: 150%;
+    text-indent: 2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.bu_que {
+    color: #20B2AA;
+    /*font-family: "kt";*/
+    /*font-weight: bold;*/
+}
+
+.pang_zhu {
+    font-family: "kt";
+    font-size: 0.9em;
+    color: #228B22;
+}
+
 .x-small_centered {
     display: block;
     font-size: 0.75em;
@@ -111,6 +176,39 @@ p {
     text-align: center;
     text-indent: 0;
     margin: 1em 0
+}
+
+.special_adjust {
+    margin-top: -2.5em;
+}
+
+.fnote_mark {
+    /*font-family:"kt";*/
+    font-size: 0.75em;
+    vertical-align: super    
+}
+
+.fnote_title {
+    display: block;
+    font-weight: 700;
+    text-align: left;
+    text-indent: 0em;
+    line-height: 150%;
+    margin: 0;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+ }
+ 
+.fnote_content {
+    display: block;
+    font-family: "kt";
+    font-size: 0.90em;
+    line-height: 150%;
+    text-align: left;
+    text-indent: -2em;
+    margin: 0;
+    /*margin-right: 0.25em;*/
+    margin-left: 2em;    
 }
 
 .content_kt {
