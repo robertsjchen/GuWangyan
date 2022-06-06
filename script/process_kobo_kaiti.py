@@ -38,7 +38,7 @@ def processParagraph(input_line_buff, output_buff_array):
         output_buff_array.append(input_line_buff)
         return
     
-    key_classes = ['shi', 'ling_ping']
+    key_classes = ['shi', 'ling_ping', 'pang_zhu']
     for class_name in key_classes:
         # <p class="shi">
         class_name_full = 'class=' + '\"' + class_name + '\"'
